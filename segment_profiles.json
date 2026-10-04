@@ -1,0 +1,74 @@
+{
+  "_note": "Hand-authored from the clustering notebook's segment interpretations. Levels are qualitative. Numeric stats and top products are added by export_segment_stats.py (segment_stats.json). Offers are intentionally generic: marketing decides real discount values, the LLM must never invent them.",
+  "brand_context": {
+    "business": "UK-based online retailer of giftware and home decor, selling mostly to wholesale and repeat buyers",
+    "voice": "warm, friendly, concise, professional",
+    "language": "English"
+  },
+  "segments": {
+    "WHALES": {
+      "cluster_id": 6,
+      "group": "outlier",
+      "recency": "recent", "frequency": "very high", "monetary": "very high",
+      "goal": "Make top-tier customers feel recognised and keep them loyal",
+      "tone": "exclusive, appreciative, personal",
+      "approved_offers": ["VIP membership perks", "early access to new collections", "surprise gift with order", "dedicated account contact"]
+    },
+    "BONUS": {
+      "cluster_id": 0,
+      "group": "main",
+      "recency": "recent", "frequency": "high", "monetary": "high",
+      "goal": "Reward loyal buyers and strengthen the relationship",
+      "tone": "grateful, rewarding",
+      "approved_offers": ["exclusive discount (value set by marketing)", "early access to sales", "loyalty programme points", "cashback or gift"]
+    },
+    "PRESERVE": {
+      "cluster_id": 3,
+      "group": "main",
+      "recency": "recent", "frequency": "high", "monetary": "high",
+      "goal": "Maintain loyalty and repeat purchasing",
+      "tone": "personal, helpful",
+      "approved_offers": ["loyalty rewards", "personalised product recommendations", "special discount (value set by marketing)"]
+    },
+    "STEADY": {
+      "cluster_id": 7,
+      "group": "outlier",
+      "recency": "recent", "frequency": "high", "monetary": "lower per order",
+      "goal": "Increase basket size of frequent, smaller orders",
+      "tone": "practical, value-focused",
+      "approved_offers": ["bundle offers (buy more, save more)", "free shipping threshold"]
+    },
+    "GROWTH": {
+      "cluster_id": 2,
+      "group": "main",
+      "recency": "recent", "frequency": "low", "monetary": "low",
+      "goal": "Build engagement and grow spend of newer or occasional buyers",
+      "tone": "welcoming, helpful, encouraging",
+      "approved_offers": ["fast and reliable support", "product inspiration", "small welcome-back incentive (value set by marketing)"]
+    },
+    "CASUALS": {
+      "cluster_id": 4,
+      "group": "outlier",
+      "recency": "recent", "frequency": "low", "monetary": "low",
+      "goal": "Keep the brand top of mind and prompt a next purchase",
+      "tone": "light, inspiring, short",
+      "approved_offers": ["product highlights", "seasonal collection teaser"]
+    },
+    "RECONNECT": {
+      "cluster_id": 1,
+      "group": "main",
+      "recency": "not recent", "frequency": "low", "monetary": "low",
+      "goal": "Reactivate customers who have not bought for a while",
+      "tone": "friendly, low-pressure, 'we miss you'",
+      "approved_offers": ["reactivation discount (value set by marketing)", "reminder of favourite product types"]
+    },
+    "QUIET": {
+      "cluster_id": 5,
+      "group": "outlier",
+      "recency": "long ago", "frequency": "very low", "monetary": "lowest",
+      "goal": "Win back dormant customers",
+      "tone": "gentle, low-pressure, curiosity-driven",
+      "approved_offers": ["win-back offer (value set by marketing)", "personalised recommendations based on past purchases"]
+    }
+  }
+}

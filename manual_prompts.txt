@@ -1,0 +1,263 @@
+==================== PROMPT FOR SEGMENT: WHALES ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: WHALES
+Behaviour: recency = recent, frequency = very high, spend = very high
+Marketing goal: Make top-tier customers feel recognised and keep them loyal
+Tone: exclusive, appreciative, personal
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: not provided (use general giftware and home decor themes)
+APPROVED OFFERS: VIP membership perks; early access to new collections; surprise gift with order; dedicated account contact
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: BONUS ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: BONUS
+Behaviour: recency = recent, frequency = high, spend = high
+Marketing goal: Reward loyal buyers and strengthen the relationship
+Tone: grateful, rewarding
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: WHITE HANGING HEART T-LIGHT HOLDER, SMALL CHINESE STYLE SCISSOR, ASSTD DESIGN BUBBLE GUM RING, WORLD WAR 2 GLIDERS ASSTD DESIGNS, PACK OF 72 RETRO SPOT CAKE CASES
+APPROVED OFFERS: exclusive discount (value set by marketing); early access to sales; loyalty programme points; cashback or gift
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: PRESERVE ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: PRESERVE
+Behaviour: recency = recent, frequency = high, spend = high
+Marketing goal: Maintain loyalty and repeat purchasing
+Tone: personal, helpful
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: SMALL CHINESE STYLE SCISSOR, BROCADE RING PURSE , WHITE HANGING HEART T-LIGHT HOLDER, ASSTD DESIGN BUBBLE GUM RING, WORLD WAR 2 GLIDERS ASSTD DESIGNS
+APPROVED OFFERS: loyalty rewards; personalised product recommendations; special discount (value set by marketing)
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: STEADY ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: STEADY
+Behaviour: recency = recent, frequency = high, spend = lower per order
+Marketing goal: Increase basket size of frequent, smaller orders
+Tone: practical, value-focused
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: not provided (use general giftware and home decor themes)
+APPROVED OFFERS: bundle offers (buy more, save more); free shipping threshold
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: GROWTH ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: GROWTH
+Behaviour: recency = recent, frequency = low, spend = low
+Marketing goal: Build engagement and grow spend of newer or occasional buyers
+Tone: welcoming, helpful, encouraging
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: WHITE HANGING HEART T-LIGHT HOLDER, ASSORTED COLOUR BIRD ORNAMENT, ASSTD DESIGN BUBBLE GUM RING, HANGING JAM JAR T-LIGHT HOLDER, GIRLS ALPHABET IRON ON PATCHES 
+APPROVED OFFERS: fast and reliable support; product inspiration; small welcome-back incentive (value set by marketing)
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: CASUALS ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: CASUALS
+Behaviour: recency = recent, frequency = low, spend = low
+Marketing goal: Keep the brand top of mind and prompt a next purchase
+Tone: light, inspiring, short
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: WORLD WAR 2 GLIDERS ASSTD DESIGNS, BROCADE RING PURSE , WHITE HANGING HEART T-LIGHT HOLDER, PACK OF 72 RETRO SPOT CAKE CASES, PACK OF 12 SUKI TISSUES 
+APPROVED OFFERS: product highlights; seasonal collection teaser
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: RECONNECT ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: RECONNECT
+Behaviour: recency = not recent, frequency = low, spend = low
+Marketing goal: Reactivate customers who have not bought for a while
+Tone: friendly, low-pressure, 'we miss you'
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: WHITE HANGING HEART T-LIGHT HOLDER, PACK OF 72 RETRO SPOT CAKE CASES, ASSORTED COLOURS SILK FAN, STRAWBERRY CERAMIC TRINKET BOX, WORLD WAR 2 GLIDERS ASSTD DESIGNS
+APPROVED OFFERS: reactivation discount (value set by marketing); reminder of favourite product types
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.
+
+==================== PROMPT FOR SEGMENT: QUIET ====================
+You are a marketing copywriter assistant for an online retailer.
+Rules you must follow:
+1. Use ONLY the offers listed under APPROVED OFFERS. Never invent discounts, prices, percentages, deadlines, stock levels or free gifts.
+2. If an offer says "value set by marketing", refer to it generically (for example "a special discount") and do not state a number.
+3. Do not claim anything about the customer's personal data or purchase history beyond the segment summary provided.
+4. Do not use pressure tactics, false urgency or guilt.
+5. Write in the requested language and tone.
+6. Return only the JSON array requested below.
+
+SEGMENT: QUIET
+Behaviour: recency = long ago, frequency = very low, spend = lowest
+Marketing goal: Win back dormant customers
+Tone: gentle, low-pressure, curiosity-driven
+Brand voice: warm, friendly, concise, professional
+Language: English
+Popular product themes for this segment: BLACK AND WHITE PAISLEY FLOWER MUG, SET/6 WOODLAND PAPER PLATES, SET/6 STRAWBERRY PAPER CUPS, SET/6 WOODLAND PAPER CUPS, SET/6 STRAWBERRY PAPER PLATES
+APPROVED OFFERS: win-back offer (value set by marketing); personalised recommendations based on past purchases
+
+Create content for ALL of the following combinations (channel / seasonal angle):
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=email (Subject line (max 60 characters) and body of 60-90 words.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=instagram_caption (Caption of 25-45 words with at most 3 hashtags. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=whatsapp_broadcast (Short message of 30-50 words, conversational, at most 1 emoji. subject must be empty.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=christmas_gifting (Christmas gifting season: gift ideas, hosting, festive home decor.)
+- channel=push_notification (Title (max 40 characters) in subject, body max 90 characters.) | angle=new_year_refresh (New Year refresh: tidy, restock, start the year with fresh ideas.)
+
+Return ONLY a JSON array with 8 objects. Each object must have exactly these keys:
+"segment", "channel", "angle", "subject", "body", "cta".
+Use the segment, channel and angle names exactly as written above. No markdown, no explanation.

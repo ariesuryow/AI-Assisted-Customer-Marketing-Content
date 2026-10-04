@@ -1,0 +1,124 @@
+{
+  "BONUS": {
+    "n_customers": 497,
+    "share_of_customers": 0.116,
+    "median_recency_days": 20.0,
+    "median_frequency_orders": 7.0,
+    "median_spend_gbp": 2400.05,
+    "top_products": [
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "SMALL CHINESE STYLE SCISSOR",
+      "ASSTD DESIGN BUBBLE GUM RING",
+      "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+      "PACK OF 72 RETRO SPOT CAKE CASES"
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.94,
+      "Germany": 0.02,
+      "Cyprus": 0.01
+    }
+  },
+  "CASUALS": {
+    "n_customers": 441,
+    "share_of_customers": 0.103,
+    "median_recency_days": 13.0,
+    "median_frequency_orders": 12.0,
+    "median_spend_gbp": 5427.78,
+    "top_products": [
+      "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+      "BROCADE RING PURSE ",
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "PACK OF 72 RETRO SPOT CAKE CASES",
+      "PACK OF 12 SUKI TISSUES "
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.89,
+      "Germany": 0.03,
+      "France": 0.03
+    }
+  },
+  "GROWTH": {
+    "n_customers": 1448,
+    "share_of_customers": 0.338,
+    "median_recency_days": 45.0,
+    "median_frequency_orders": 1.0,
+    "median_spend_gbp": 380.26,
+    "top_products": [
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "ASSORTED COLOUR BIRD ORNAMENT",
+      "ASSTD DESIGN BUBBLE GUM RING",
+      "HANGING JAM JAR T-LIGHT HOLDER",
+      "GIRLS ALPHABET IRON ON PATCHES "
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.93,
+      "Germany": 0.01,
+      "France": 0.01
+    }
+  },
+  "PRESERVE": {
+    "n_customers": 895,
+    "share_of_customers": 0.209,
+    "median_recency_days": 35.0,
+    "median_frequency_orders": 4.0,
+    "median_spend_gbp": 1236.48,
+    "top_products": [
+      "SMALL CHINESE STYLE SCISSOR",
+      "BROCADE RING PURSE ",
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "ASSTD DESIGN BUBBLE GUM RING",
+      "WORLD WAR 2 GLIDERS ASSTD DESIGNS"
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.92,
+      "France": 0.01,
+      "Germany": 0.01
+    }
+  },
+  "QUIET": {
+    "n_customers": 177,
+    "share_of_customers": 0.041,
+    "median_recency_days": 360.0,
+    "median_frequency_orders": 1.0,
+    "median_spend_gbp": 246.86,
+    "top_products": [
+      "BLACK AND WHITE PAISLEY FLOWER MUG",
+      "SET/6 WOODLAND PAPER PLATES",
+      "SET/6 STRAWBERRY PAPER CUPS",
+      "SET/6 WOODLAND PAPER CUPS",
+      "SET/6 STRAWBERRY PAPER PLATES"
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.96,
+      "Norway": 0.01,
+      "Sweden": 0.01
+    }
+  },
+  "RECONNECT": {
+    "n_customers": 805,
+    "share_of_customers": 0.188,
+    "median_recency_days": 221.0,
+    "median_frequency_orders": 1.0,
+    "median_spend_gbp": 297.0,
+    "top_products": [
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "PACK OF 72 RETRO SPOT CAKE CASES",
+      "ASSORTED COLOURS SILK FAN",
+      "STRAWBERRY CERAMIC TRINKET BOX",
+      "WORLD WAR 2 GLIDERS ASSTD DESIGNS"
+    ],
+    "top_country_share": {
+      "United Kingdom": 0.92,
+      "Germany": 0.02,
+      "Portugal": 0.01
+    }
+  },
+  "STEADY": {
+    "suppressed": true,
+    "reason": "fewer than 20 customers"
+  },
+  "WHALES": {
+    "suppressed": true,
+    "reason": "fewer than 20 customers"
+  }
+}

@@ -1,0 +1,528 @@
+[
+{
+"segment": "WHALES",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Early Access: Festive Decor & Holiday Gifts",
+"body": "As one of our most valued VIPs, we are delighted to offer you early access to our new Christmas gifting and festive home decor collection. Enjoy your exclusive VIP membership perks, including a dedicated account contact to ensure your holiday hosting and gift selections are seamless. As a heartfelt token of our appreciation, a surprise gift will accompany your order. Thank you for being such a wonderful part of our community.",
+"cta": "Shop Early Access"
+},
+{
+"segment": "WHALES",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Exclusive First Look: New Year Home Refresh",
+"body": "Thank you for your continued loyalty to our brand. To help you start the year with fresh ideas, enjoy early access to our latest home decor and restock essentials. Your VIP membership perks and dedicated account contact are ready to assist with any personal requests. We have also included a surprise gift with order as a special thank-you. Explore the new arrivals today and elevate your living space for the new year.",
+"cta": "Explore New Arrivals"
+},
+{
+"segment": "WHALES",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "To our cherished VIP community, thank you for inspiring us every day. Enjoy early access to our festive home decor and gifting collections today. A special surprise gift awaits with your order. #VIPAccess #HomeDecor #FestiveLiving",
+"cta": "Link in bio to shop"
+},
+{
+"segment": "WHALES",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Start the year with fresh home ideas and tidy spaces. As a special thank you for your incredible loyalty, enjoy early access to our newest decor collection alongside your VIP perks. #VIPCommunity #HomeRefresh #NewYearDecor",
+"cta": "Shop new arrivals in bio"
+},
+{
+"segment": "WHALES",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Hello! As a top-tier member, we truly appreciate your loyalty. Enjoy early access to our festive home decor and gift collections, complete with your VIP perks, dedicated account contact, and a surprise gift with order. 🎁",
+"cta": "Shop early access now"
+},
+{
+"segment": "WHALES",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Happy New Year! Thank you for being such a valued client. Enjoy early access to our new restock items and fresh home decor, plus a surprise gift with your next order. Reach out to your dedicated account contact anytime. ✨",
+"cta": "Discover fresh ideas"
+},
+{
+"segment": "WHALES",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "VIP Early Access: Festive Collection",
+"body": "Enjoy early access to holiday decor, VIP perks, and a surprise gift with your order.",
+"cta": "Shop Now"
+},
+{
+"segment": "WHALES",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "Exclusive Access: New Year Refresh",
+"body": "Explore fresh home ideas early with your VIP membership perks and a surprise gift.",
+"cta": "Explore New"
+}
+]
+[
+{
+"segment": "BONUS",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "A Special Festive Thank You & Early Access",
+"body": "We are so grateful for your continued support and wanted to send a token of our appreciation this holiday season. Enjoy early access to sales alongside a special discount on your festive shopping. From charming touches like our White Hanging Heart T-Light Holder to festive baking essentials like our Retro Spot Cake Cases, discover thoughtful gifts and decor. Plus, earn extra loyalty programme points, cashback or gift options on your order today.",
+"cta": "Shop Holiday Ideas"
+},
+{
+"segment": "BONUS",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Start the New Year Fresh with Special Rewards",
+"body": "Thank you for being such a valued customer. As we start the new year, we want to reward your loyalty with a special discount and early access to sales. Whether you are stocking up on baking supplies like our Retro Spot Cake Cases or picking up handy tools like Small Chinese Style Scissors, explore fresh ideas to tidy and restock. Enjoy your cashback or gift offers and loyalty programme points with your next order.",
+"cta": "Explore Fresh Ideas"
+},
+{
+"segment": "BONUS",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Thank you for being a loyal customer! Enjoy early access to sales and a special discount on festive home decor, including our White Hanging Heart T-Light Holder. Plus, collect loyalty programme points today. #Grateful #FestiveDecor #GiftingIdeas",
+"cta": "Shop the collection in bio"
+},
+{
+"segment": "BONUS",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "We appreciate your continued support! Refresh your home for the new year with early access to sales, a special discount, and bonus loyalty programme points on restock essentials like Retro Spot Cake Cases. #HomeRefresh #NewYearIdeas #ThankYou",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "BONUS",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Thank you so much for shopping with us! To celebrate the holiday season, enjoy early access to sales and a special discount on festive favorites like our White Hanging Heart T-Light Holder. Plus, earn extra loyalty programme points today. 🎁",
+"cta": "Shop festive favorites"
+},
+{
+"segment": "BONUS",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Happy New Year! We truly appreciate your support. Start the year fresh with a special discount and early access to sales on essential restock items like our Retro Spot Cake Cases. Enjoy bonus loyalty programme points with your order. ✨",
+"cta": "Discover fresh arrivals"
+},
+{
+"segment": "BONUS",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "A Festive Thank You: Special Rewards",
+"body": "Enjoy early access to sales, a special discount, and extra loyalty points today.",
+"cta": "Shop Now"
+},
+{
+"segment": "BONUS",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "New Year Refresh: Early Access & Perks",
+"body": "Start the year fresh with a special discount, cashback or gift, and early access sales.",
+"cta": "Refresh Today"
+}
+]
+[
+{
+"segment": "PRESERVE",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Festive Ideas & Special Rewards for You",
+"body": "We hope you are looking forward to the holiday season. To help with your festive home decor and gift choices, we have curated personalised product recommendations just for you, including charming pieces like our White Hanging Heart T-Light Holder and Brocade Ring Purses. Enjoy a special discount on your order today alongside your ongoing loyalty rewards. We are always here to make your holiday shopping experience warm and simple.",
+"cta": "View Recommendations"
+},
+{
+"segment": "PRESERVE",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Start Fresh with Personalised Home Ideas",
+"body": "Welcome the new year with fresh ideas to tidy and restock your home. We have put together personalised product recommendations featuring helpful everyday items like our Small Chinese Style Scissors to make your routines easier. To thank you for staying with us, enjoy a special discount on your purchases along with your loyalty rewards. Discover peaceful, organized inspiration for the year ahead.",
+"cta": "Explore New Year Ideas"
+},
+{
+"segment": "PRESERVE",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Warm up your home this holiday season with gentle touches like our White Hanging Heart T-Light Holder. Explore personalised product recommendations, earn loyalty rewards, and enjoy a special discount today. #FestiveHome #GiftingIdeas #WarmDecor",
+"cta": "Shop recommendations in bio"
+},
+{
+"segment": "PRESERVE",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Start the new year organized with handy essentials like Small Chinese Style Scissors. Take advantage of personalised product recommendations, your loyalty rewards, and a special discount as you restock. #NewYearRefresh #HomeOrganisation #FreshIdeas",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "PRESERVE",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Hello! We are here to help you get ready for the holiday season. Enjoy personalized product recommendations tailored for festive hosting, alongside your loyalty rewards and a special discount on your order today. 🕯️",
+"cta": "See your recommendations"
+},
+{
+"segment": "PRESERVE",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Ready to tidy and restock for the new year? We have gathered personalized product recommendations to help you refresh your home, complete with your loyalty rewards and a special discount. ✨",
+"cta": "Discover fresh ideas"
+},
+{
+"segment": "PRESERVE",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "Festive Decor & Personalised Ideas",
+"body": "Explore custom recommendations, your loyalty rewards, and a special discount.",
+"cta": "View Now"
+},
+{
+"segment": "PRESERVE",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "Refresh Your Space for the New Year",
+"body": "Enjoy personalized recommendations, a special discount, and loyalty rewards.",
+"cta": "Shop Refresh"
+}
+]
+[
+{
+"segment": "STEADY",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Festive Decor & Great Savings on Gift Bundles",
+"body": "Make the most of your holiday shopping this season with our practical bundle offers. Whether you are searching for charming gift ideas, festive home decor, or hosting essentials, buying more allows you to save more on your favourite items. Combine your seasonal purchases today to easily reach our free shipping threshold and enjoy extra value delivered straight to your door. Explore our complete festive collection for great practical choices.",
+"cta": "Shop Festive Bundles"
+},
+{
+"segment": "STEADY",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Start the New Year Fresh with Value Bundles",
+"body": "Get ready to tidy, restock, and refresh your home for the new year. Take advantage of our bundle offers to stock up on home decor and everyday essentials—the more you buy, the more you save. Combining your restocking items in a single order is a practical way to reach our free shipping threshold and stretch your budget further. Discover fresh inspiration for an organized and welcoming home today.",
+"cta": "Explore Refresh Bundles"
+},
+{
+"segment": "STEADY",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Prepare your home for holiday hosting and festive gifting with practical value. Save more when you buy more with our bundle offers, and reach our free shipping threshold today. #FestiveDecor #GiftingIdeas #HomeDecor",
+"cta": "Shop bundles in bio"
+},
+{
+"segment": "STEADY",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Tidy and restock your home for the new year. Combine your favourite home decor essentials with our buy more, save more bundle offers to reach the free shipping threshold easily. #NewYearRefresh #HomeOrganisation #SmartShopping",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "STEADY",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Getting ready for holiday hosting and gifting? Take advantage of our bundle offers to buy more and save more on festive home decor. Group your purchases together to reach our free shipping threshold today. 🎁",
+"cta": "Browse festive bundles"
+},
+{
+"segment": "STEADY",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Start the year fresh and organized! Restock home decor essentials with our buy more, save more bundle offers. Combine your items in one order to easily qualify for our free shipping threshold. ✨",
+"cta": "Shop new year refresh"
+},
+{
+"segment": "STEADY",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "Festive Gifts: Buy More & Save More",
+"body": "Save on holiday decor bundles and reach our free shipping threshold today.",
+"cta": "Shop Bundles"
+},
+{
+"segment": "STEADY",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "New Year Refresh: Bundle & Save",
+"body": "Restock home essentials with bundle offers and unlock our free shipping threshold.",
+"cta": "Refresh Now"
+}
+]
+[
+{
+"segment": "GROWTH",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Warm Festive Ideas & A Welcome Incentive",
+"body": "Welcome to the holiday season! We are delighted to share delightful product inspiration for festive home decor and gift ideas, including our charming White Hanging Heart T-Light Holder and Assorted Colour Bird Ornaments. To make your shopping experience even brighter, enjoy a small welcome-back incentive on your next order. If you ever need help or have questions, our fast and reliable support team is always here for you.",
+"cta": "Explore Festive Ideas"
+},
+{
+"segment": "GROWTH",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Fresh New Year Ideas & A Welcome Treat",
+"body": "Start the new year with fresh ideas to tidy, restock, and refresh your living spaces. Discover inspiring product inspiration, from cozy decor like our Hanging Jam Jar T-Light Holder to fun craft items like Girls Alphabet Iron On Patches. To welcome you back this season, we are pleased to offer a small welcome-back incentive. Count on our fast and reliable support team to assist you every step of the way.",
+"cta": "Discover Fresh Ideas"
+},
+{
+"segment": "GROWTH",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Brighten your holidays with festive decor inspiration, like our White Hanging Heart T-Light Holder and Bird Ornaments. Enjoy a small welcome-back incentive and fast and reliable support when you shop with us! #FestiveDecor #GiftingIdeas #HomeInspiration",
+"cta": "Explore the collection in bio"
+},
+{
+"segment": "GROWTH",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Refresh your home for the new year with cozy product inspiration like our Hanging Jam Jar T-Light Holder. Plus, enjoy a small welcome-back incentive and fast and reliable support. #NewYearRefresh #HomeIdeas #CozyLiving",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "GROWTH",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Welcome to holiday shopping! Discover product inspiration for festive hosting and gifts like our White Hanging Heart T-Light Holder. Enjoy a small welcome-back incentive today, with fast and reliable support whenever you need help. 🎁",
+"cta": "See festive inspiration"
+},
+{
+"segment": "GROWTH",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Ready to start the year with fresh ideas? Explore product inspiration to tidy and restock your home. Enjoy a small welcome-back incentive and fast and reliable support to make shopping simple. ✨",
+"cta": "Get fresh ideas"
+},
+{
+"segment": "GROWTH",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "Festive Ideas & A Welcome Offer",
+"body": "Discover holiday decor inspiration, a small welcome-back incentive, and reliable support.",
+"cta": "Explore Ideas"
+},
+{
+"segment": "GROWTH",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "Fresh Ideas for the New Year",
+"body": "Get product inspiration to refresh your space plus a small welcome-back incentive today.",
+"cta": "Shop Fresh"
+}
+]
+[
+{
+"segment": "CASUALS",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Festive Highlights & Gift Inspiration",
+"body": "Add a touch of magic to your holiday home with our favorite seasonal product highlights. From the delicate glow of our White Hanging Heart T-Light Holder to charming Brocade Ring Purses for gifting, we have plenty of light, inspiring ideas for festive hosting. Take a sneak peek at our seasonal collection teaser and discover delightful, easy gifts to make the holidays feel warm and welcoming.",
+"cta": "Explore Festive Highlights"
+},
+{
+"segment": "CASUALS",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Fresh Ideas to Start the New Year",
+"body": "Welcome the new year with light, inspiring touches for your space. Explore product highlights like our Pack of 72 Retro Spot Cake Cases for home baking and Pack of 12 Suki Tissues for easy restocking. Check out our seasonal collection teaser to discover simple, fresh ideas to tidy and restock your home for a bright new beginning.",
+"cta": "See Fresh Arrivals"
+},
+{
+"segment": "CASUALS",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Brighten your space with festive product highlights like our White Hanging Heart T-Light Holder. Enjoy a seasonal collection teaser for charming gift ideas and holiday decor! #FestiveDecor #GiftingIdeas #HomeInspiration",
+"cta": "Shop product highlights in bio"
+},
+{
+"segment": "CASUALS",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Start the year with fresh ideas! Explore everyday product highlights like our Pack of 72 Retro Spot Cake Cases and get inspired with our seasonal collection teaser. #NewYearRefresh #HomeIdeas #BakingEssentials",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "CASUALS",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Hello! Get inspired for holiday hosting with product highlights like our White Hanging Heart T-Light Holder. Here is a seasonal collection teaser to help you find simple, charming gifts. 🎁",
+"cta": "Discover gift ideas"
+},
+{
+"segment": "CASUALS",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Ready to tidy and restock for the new year? Check out our product highlights like Retro Spot Cake Cases, plus a seasonal collection teaser filled with fresh home ideas. ✨",
+"cta": "Explore fresh ideas"
+},
+{
+"segment": "CASUALS",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "Festive Ideas & Collection Teaser",
+"body": "Discover holiday product highlights and charming gift ideas for your home.",
+"cta": "Explore Now"
+},
+{
+"segment": "CASUALS",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "New Year Refresh: Seasonal Teaser",
+"body": "Explore fresh product highlights to tidy and restock your home for the new year.",
+"cta": "Shop Refresh"
+}
+]
+[
+{
+"segment": "RECONNECT",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "We Miss You: Festive Decor & A Special Offer",
+"body": "It has been a while, and we would love to welcome you back this holiday season. Whether you are looking for cozy festive decor like our White Hanging Heart T-Light Holder or charming gift items like the Strawberry Ceramic Trinket Box, we have plenty of lovely gift ideas to inspire you. Enjoy a reactivation discount on your next order as a warm welcome back. We hope to see you again soon.",
+"cta": "Shop Holiday Ideas"
+},
+{
+"segment": "RECONNECT",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "We Miss You: Start the New Year Fresh",
+"body": "We miss having you with us and wanted to reach out as the new year begins. It is the perfect time to tidy, restock, and refresh your space. From popular favourites like our Pack of 72 Retro Spot Cake Cases for home baking to unique decorative touches, explore fresh ideas for your home. Enjoy a reactivation discount to help you get started whenever you are ready to visit us again.",
+"cta": "Explore Fresh Ideas"
+},
+{
+"segment": "RECONNECT",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "We miss you! Reconnect with us this festive season and discover cozy home decor like our White Hanging Heart T-Light Holder. Enjoy a reactivation discount on your next order today. #WeMissYou #FestiveDecor #GiftingIdeas",
+"cta": "Shop the collection in bio"
+},
+{
+"segment": "RECONNECT",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "We would love to welcome you back! Start the new year fresh with baking favorites like Retro Spot Cake Cases. Take advantage of a reactivation discount as you restock. #NewYearRefresh #HomeIdeas #WelcomeBack",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "RECONNECT",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Hello! We miss having you around. As you prepare for holiday hosting and gifting, come explore favourites like our Strawberry Ceramic Trinket Box. Enjoy a reactivation discount when you return. 🎁",
+"cta": "Discover gift ideas"
+},
+{
+"segment": "RECONNECT",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "We miss you! Ready to start the new year with fresh home ideas? Restock favourites like our Retro Spot Cake Cases and enjoy a reactivation discount on your next visit. ✨",
+"cta": "Explore new year fresh"
+},
+{
+"segment": "RECONNECT",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "We Miss You: Festive Gift Ideas",
+"body": "Explore holiday decor and enjoy a reactivation discount on your next order.",
+"cta": "Welcome Back"
+},
+{
+"segment": "RECONNECT",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "We Miss You: New Year Refresh",
+"body": "Restock favourite home items and enjoy a reactivation discount today.",
+"cta": "Shop Now"
+}
+]
+[
+{
+"segment": "QUIET",
+"channel": "email",
+"angle": "christmas_gifting",
+"subject": "Warm Festive Ideas & A Special Win-Back Offer",
+"body": "It has been a while, and we would love to welcome you back. To help with your festive hosting, explore our collection of charming essentials like our Set/6 Woodland Paper Plates, Set/6 Woodland Paper Cups, and Black and White Paisley Flower Mugs. We have prepared personalised recommendations based on past purchases to inspire your holiday table. Whenever you are ready to visit, enjoy a special win-back offer on your order.",
+"cta": "Explore Festive Ideas"
+},
+{
+"segment": "QUIET",
+"channel": "email",
+"angle": "new_year_refresh",
+"subject": "Fresh Ideas for the New Year & A Special Offer",
+"body": "We miss seeing you and thought you might enjoy fresh inspiration as the new year begins. Take a look at our versatile table accessories, including our Set/6 Strawberry Paper Plates and Set/6 Strawberry Paper Cups, perfect for simple gatherings. Discover personalized recommendations based on past purchases to help restock your home. When you feel like taking a look, a win-back offer is waiting for you at checkout.",
+"cta": "Discover Fresh Ideas"
+},
+{
+"segment": "QUIET",
+"channel": "instagram_caption",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "We would love to welcome you back! Explore festive hosting essentials like our Woodland Paper Plates, enjoy personalised recommendations based on past purchases, and claim your win-back offer today. #FestiveHosting #HomeDecor #WelcomeBack",
+"cta": "Explore the collection in bio"
+},
+{
+"segment": "QUIET",
+"channel": "instagram_caption",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Start the new year with fresh ideas for your home. Discover table essentials like Strawberry Paper Cups alongside personalised recommendations based on past purchases and a special win-back offer. #NewYearRefresh #HomeInspiration #Tableware",
+"cta": "Tap link in bio to shop"
+},
+{
+"segment": "QUIET",
+"channel": "whatsapp_broadcast",
+"angle": "christmas_gifting",
+"subject": "",
+"body": "Hello! It has been a while. We would love to share warm holiday hosting ideas, like our Woodland Paper Plates and Mugs, plus personalized recommendations based on past purchases. A win-back offer is waiting whenever you are ready. 🌲",
+"cta": "See festive recommendations"
+},
+{
+"segment": "QUIET",
+"channel": "whatsapp_broadcast",
+"angle": "new_year_refresh",
+"subject": "",
+"body": "Thinking about a new year refresh? We miss you and have gathered personalized recommendations based on past purchases, including Strawberry Paper Cups and Plates. Take a look and enjoy your win-back offer today. ✨",
+"cta": "Explore fresh arrivals"
+},
+{
+"segment": "QUIET",
+"channel": "push_notification",
+"angle": "christmas_gifting",
+"subject": "Warm Festive Ideas & A Win-Back Offer",
+"body": "Explore personalized recommendations based on past purchases and enjoy a win-back offer.",
+"cta": "Welcome Back"
+},
+{
+"segment": "QUIET",
+"channel": "push_notification",
+"angle": "new_year_refresh",
+"subject": "New Year Ideas & A Special Offer",
+"body": "Discover personalized recommendations based on past purchases plus a win-back offer.",
+"cta": "Shop Now"
+}
+]
